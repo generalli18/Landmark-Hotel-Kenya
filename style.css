@@ -1,0 +1,43 @@
+
+/* General website styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333333;
+}
+
+/* Header styling */
+header {
+    background-color: #17365d;
+    color: white;
+    text-align: center;
+    padding: 40px 15px;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Section styling */
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Heading styling */
+h2 {
+    color: #17365d;
+}
+
+/* Footer styling */
+footer {
+    background-color: #17365d;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
