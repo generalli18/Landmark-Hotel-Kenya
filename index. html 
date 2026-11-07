@@ -10,11 +10,6 @@
 
 <body>
 
-    <header>
-        <h1>Welcome to Landmark Hotel Kenya</h1>
-        <p>Welcome to our hotel.</p>
-    </header>
-
 <header>
     <h1>Welcome to Landmark Hotel Kenya</h1>
     <p>Welcome to our hotel.</p>
@@ -27,20 +22,20 @@
     </nav>
 </header>
 
-    <main>
-        <section>
+    <main id="home">
+        <section id="about">
             <h2>About Us</h2>
             <p>
                 Discover more about Landmark Hotel Kenya.
             </p>
         </section>
 
-        <section>
+      <section id="facilities">
             <h2>Our Facilities</h2>
             <p>Learn about the facilities available at our hotel.</p>
         </section>
 
-        <section>
+        <section id="contact">
             <h2>Contact Us</h2>
             <p>Get in touch with Landmark Hotel Kenya.</p>
         </section>
